@@ -1,0 +1,9 @@
+toolkit.version=5.0.1
+tracker.identifier=SiamFC
+tracker.interpreter=matlab
+timestamp=2017-06-18 22:24:46
+platform=GLNXA64
+platform.maxsize=281474976710655.000000
+platform.endian=L
+environment=matlab
+environment.version=9.2.0.538062 (R2017a)
