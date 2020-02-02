@@ -3,7 +3,7 @@ A temporal repository for S<sup>2</sup>SiamFC.
 
 The results of VOT2016 & VOT2018 are under /results.
 
-## Analysis about Anti-Clutter weighting on VOT2018 in video level
+## Analysis about Anti-Clutter weighting in video level on VOT2018
 <table>
 <tr>
 <td align="center"> Tracker name <td colspan=2 align="center"> S<sup>2</sup>SiamFC <td colspan=2 align="center">S<sup>2</sup>SiamFC without AC weighting
