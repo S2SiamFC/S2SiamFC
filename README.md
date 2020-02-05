@@ -8,7 +8,7 @@ The results of VOT2016 & VOT2018 are under /results.
 
 ` ↑ denotes larger is better; ↓ denotes smaller is better`
 
-### Results of Anti-cluttering weighting on VOT2018 in the video level.
+### 1. Results of Anti-cluttering weighting on VOT2018 in the video level.
 There are some some successful cases that can illustrate the contributions of anti-clutter weighting:
 <table>
 <tr>
@@ -44,7 +44,7 @@ There are some some successful cases that can illustrate the contributions of an
  
 </table>
 
-### Overall results of Anti-cluttering weighting on VOT2018.
+### 2. Overall results of Anti-cluttering weighting on VOT2018.
 |   VOT2018   | Accuracy &#8593;   | Robustness &#8595; | EAO &#8593; |
 |:---: | :---:  | :---:  | :---:  |
 |SiamFC with AC weighting| <b>0.476</b>  | <b>1.110</b>  | <b>0.136</b> |
