@@ -47,7 +47,7 @@ There are some some successful cases that can illustrate the contributions of an
 ### Overall results of Anti-cluttering weighting on VOT2018.
 |   VOT2018   | Accuracy &#8593;   | Robustness &#8595; | EAO &#8593; |
 |:---: | :---:  | :---:  | :---:  |
-|SiamFC with AC weighting| 0.476  | 1.110  | 0.136 |
+|SiamFC with AC weighting| <b>0.476</b>  | <b>1.110</b>  | <b>0.136</b> |
 |SiamFC without AC weighting| 0.472  | 1.232  | 0.130 |
 
 
