@@ -46,12 +46,10 @@ There are some some successful cases that can illustrate the contributions of an
 
 ### The demo on "conduction1" and "butterfly":
 
-`Green denote GT`
-`Red denote S^2SiamFC with AC weighting`
-`Blue denote S^2SiamFC without AC weighting`
-
 ![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/conduction.gif)
+![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/denote.png)
 ![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/butterfly.gif)
+![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/denote.png)
 
 ### 2. Overall results of Anti-cluttering weighting on VOT2018.
 |   VOT2018   | Accuracy &#8593;   | Robustness &#8595; | EAO &#8593; |
