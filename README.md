@@ -1,7 +1,7 @@
 # S<sup>2</sup>SiamFC
 A temporal repository for S<sup>2</sup>SiamFC.
 
-The results of VOT2016 & VOT2018 are under /results.
+The results of VOT2016 & VOT2018 are under ./results.
 
 ## Analysis about Anti-Clutter weighting in video level on VOT2018
 <b>Note: The following results are based on existing experimental results (the first two rows in Table 3 in the paper) but in detail. Therefore, it should obey the rebuttal policy.</b>
