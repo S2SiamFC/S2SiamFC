@@ -12,7 +12,7 @@ The results of VOT2016 & VOT2018 are under /results.
 There are some some successful cases that can illustrate the contributions of anti-clutter weighting:
 <table>
 <tr>
-<td align="center"> Tracker name <td colspan=1 align="center"> S<sup>2</sup>SiamFC with AC weighting <td colspan=1 align="center">S<sup>2</sup>SiamFC without AC weighting
+<td align="center">  <td colspan=1 align="center"> S<sup>2</sup>SiamFC with AC weighting <td colspan=1 align="center">S<sup>2</sup>SiamFC without AC weighting
 <tr>
 <td colspan=1 align="center">Video name <td colspan=1 align="center">Lost Number &#8595;<td colspan=1 align="center">Lost Number &#8595;
 <tr>
