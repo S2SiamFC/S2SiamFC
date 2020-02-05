@@ -6,7 +6,7 @@ The results of VOT2016 & VOT2018 are under ./results.
 ## Analysis about Anti-Clutter weighting in video level on VOT2018
 <b>Note: The following results are based on existing experimental results (the first two rows in Table 3 in the paper) but in detail. Therefore, it should obey the rebuttal policy.</b>
 
-` ↑ denotes larger is better; ↓ denotes smaller is better`
+`↑ denotes larger is better; ↓ denotes smaller is better`
 
 ### 1. Results of Anti-cluttering weighting on VOT2018 in the video level.
 There are some some successful cases that can illustrate the contributions of anti-clutter weighting:
@@ -43,11 +43,19 @@ There are some some successful cases that can illustrate the contributions of an
 <tr>
  
 </table>
+The demo on "conduction1" and "butterfly":
+
+`Green denote GT`
+`Red denote S^2SiamFC with AC weighting`
+`Blue denote S^2SiamFC without AC weighting`
+
+![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/conduction.gif)
+![image](https://github.com/S2SiamFC/S2SiamFC/blob/master/butterfly.gif)
 
 ### 2. Overall results of Anti-cluttering weighting on VOT2018.
 |   VOT2018   | Accuracy &#8593;   | Robustness &#8595; | EAO &#8593; |
 |:---: | :---:  | :---:  | :---:  |
-|SiamFC with AC weighting| <b>0.476</b>  | <b>1.110</b>  | <b>0.136</b> |
-|SiamFC without AC weighting| 0.472  | 1.232  | 0.130 |
+|S<sup>2</sup>SiamFC with AC weighting| <b>0.476</b>  | <b>1.110</b>  | <b>0.136</b> |
+|S<sup>2</sup>SiamFC without AC weighting| 0.472  | 1.232  | 0.130 |
 
 
